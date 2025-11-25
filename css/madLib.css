@@ -1,0 +1,115 @@
+/*
+    madLib.css
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@import url('https://fonts.googleapis.com/css?family=Vollkorn:400i');
+
+@import url('https://fonts.googleapis.com/css?family=Artifika');
+
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+
+@import url('https://fonts.googleapis.com/css?family=Calligraffitti');
+
+
+body {
+    font-family: 'Abril Fatface', cursive;
+    background-color: #686868;
+    color: #000000;
+
+}
+
+.background {
+    background-image: url("../images/edoras.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* -------------------------------------------------------------- */
+/* Input Area Rules */
+
+.inputArea,
+.responseArea {
+    width: 600px;
+    /* adjust this as needed */
+    min-height: 200px;
+    /* adjust this as needed */
+
+
+
+    background-image: url(../images/oldParchment.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    border-radius: 2%;
+
+
+    padding: 30px;
+}
+
+/* -------------------------------------------------------------- */
+/*  Some font colors */
+
+
+
+/* -------------------------------------------------------------- */
+/* Alignment Rules */
+
+
+
+/* --------------------------------- */
+/*  Text Transformation Rules */
+
+.title {
+    font-family: 'Vollkorn', serif;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.output {
+    font-family: 'Artifika', serif;
+}
+
+.outputTitle {
+    font-family: 'Berkshire Swash', cursive;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.goodLuck {
+    font-family: 'Calligraffitti', cursive;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+/* --------------------------------- */
+/* Image Alignment Rules */
+
+.knightImage {
+    float: right;
+    margin-right: 80px;
+    margin-top: 60px;
+    padding: 5px;
+}
+
+.maroon {
+    color: #841124;
+}
+
+/* --------------------------------- */
+/* Block Alignment Rules */
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.shadow {
+    box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.5);
+}

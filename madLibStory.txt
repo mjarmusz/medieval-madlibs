@@ -1,0 +1,25 @@
+
+Due to the + adjectiveOne + attack on our castle by a + adverbOne + nounOne +(dragon).  We are seeking a + adjectiveTwo +(brave) knight to capture the + adjectiveOne +(dragon).  Weapons will be provided to the chosen knight such as a + nounTwo + (sword), + nounThree +(shield), and + nounFour + (armor).  Knights must not only be + adjectiveTwo + but also + adjectiveThree + (valorous) to be considered for the quest.  Beware of the + nounOne +(dragon)’s + bodypartOne(claws), for they are quite + adjectiveFour(sharp).  The secret to capturing the + adjectiveOne(dragon) is to + verbOne +(run) straight at it, then + verbTwo(grab) its + bodypartTwo +(wing) to prevent it from + verbingOne + (flying).  While some think lobbing +nounFive +(arrows) at the + adjectiveOne +(dragon) will kill it, this will only make it + verbThree(run) in + shapeOne +(circles).  If our knight succeeds in capturing the + adjectiveOne + (dragon), its + bodypartTwo(tail) will be served to the king since he was overheard declaring, “+ bodypartTwo+s are my + adjectiveSix + (favorite) meal.  They make me + adjectiveSeven(happy).”
+
+
+
+adjective1
+adverb1
+adjective2
+noun1
+noun2
+noun3
+adjective3
+adjective4
+bodypart1
+adjective5
+verb1
+verb2
+bodypart2
+verbing1
+noun4
+verb3
+shape1
+bodypart2
+adjective6
+adjective7

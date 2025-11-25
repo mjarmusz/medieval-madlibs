@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+
+    <title>MadLib</title>
+
+    <link rel="stylesheet" type="text/css" href="css/madLib.css">
+
+    <script src="js/madLib.js"></script>
+
+</head>
+
+<body class="background">
+
+    <h1 class="title maroon">A Request for a Quest</h1>
+
+
+    <div id="inputArea" class="inputArea center-block shadow">
+        <div class="knightImage">
+            <img src="images/knightSketch.png" alt="A knight" height="227">
+        </div>
+        <form>
+            <p>
+                Noun (animal): <input type="text" name="adjective1">
+
+                <br>
+
+                Adjective: <input type="text" name="adverb1">
+
+                <br>
+
+                Adjective: <input type="text" name="adjective2">
+
+                <br>
+
+                Noun (animal): <input type="text" name="noun1">
+
+                <br>
+
+                Noun: <input type="text" name="noun2">
+                <br>
+                Noun: <input type="text" name="noun3">
+                <br>
+
+                Adjective: <input type="text" name="adjective3">
+                <br>
+                Adjective: <input type="text" name="adjective4">
+                <br>
+                Body part: <input type="text" name="bodypart1">
+                <br>
+                Adjective: <input type="text" name="adjective5">
+                <br>
+                Verb: <input type="text" name="verb1">
+                <br>
+                Verb: <input type="text" name="verb2">
+                <br>
+                Body part: <input type="text" name="bodypart2">
+                <br>
+                Verb ending in "ing": <input type="text" name="verbing1">
+                <br>
+                Noun: <input type="text" name="noun4">
+                <br>
+                Verb: <input type="text" name="verb3">
+
+                <br><br>
+                <p><i>Choose a shape!</i></p>
+
+                <input type="radio" name="shape" value="triangle" checked> triangle
+                <br>
+                <input type="radio" name="shape" value="trapezoid"> trapezoid
+                <br>
+                <input type="radio" name="shape" value="rhombus"> rhombus
+                <br>
+                <input type="radio" name="shape" value="nonagon"> nonagon
+                <br>
+                <input type="radio" name="shape" value="square"> square
+
+                <br><br>
+
+                Body part: <input type="text" name="bodypart3">
+                <br>
+                Adjective: <input type="text" name="adjective6">
+                <br>
+                Adjective: <input type="text" name="adjective7">
+                <br>
+
+                Noun: <input type="text" name="noun5">
+                <br>
+                Adverb: <input type="text" name="adverb2">
+                <br>
+
+
+                <button type="button" onclick="madLib( this.form )">Request a Knight!</button>
+
+        </form>
+
+    </div>
+
+    <br><br>
+
+    <!-- ------------------------------------------ -->
+    <!-- Response Area -->
+
+    <div id="responseArea" class="responseArea center-block shadow">
+
+
+    </div>
+
+</body>
+
+</html>
